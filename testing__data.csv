@@ -1,0 +1,61 @@
+,Age,Attrition,BusinessTravel,Department,EducationField,MonthlyIncome
+349,<35,Yes,Travel_Frequently,Research & Development,Life Sciences,<6223
+302,<35,Yes,Travel_Frequently,Research & Development,Medical,<6223
+581,>=35,Yes,Travel_Frequently,Sales,Life Sciences,>=6223
+757,<35,Yes,Travel_Frequently,Research & Development,Life Sciences,<6223
+608,>=35,Yes,Travel_Rarely,Sales,Life Sciences,>=6223
+719,>=35,Yes,Travel_Rarely,Sales,Marketing,>=6223
+566,>=35,Yes,Travel_Rarely,Research & Development,Life Sciences,<6223
+374,<35,Yes,Non-Travel,Sales,Medical,<6223
+679,>=35,Yes,Travel_Rarely,Human Resources,Medical,>=6223
+63,<35,Yes,Travel_Rarely,Sales,Life Sciences,>=6223
+168,>=35,Yes,Travel_Frequently,Research & Development,Life Sciences,<6223
+433,>=35,Yes,Travel_Rarely,Research & Development,Life Sciences,<6223
+74,<35,Yes,Travel_Frequently,Research & Development,Life Sciences,<6223
+30,>=35,Yes,Travel_Rarely,Research & Development,Medical,>=6223
+501,<35,Yes,Travel_Frequently,Research & Development,Life Sciences,<6223
+225,>=35,Yes,Travel_Rarely,Sales,Marketing,>=6223
+916,<35,Yes,Travel_Frequently,Research & Development,Medical,<6223
+883,>=35,Yes,Travel_Frequently,Sales,Life Sciences,>=6223
+953,<35,Yes,Travel_Rarely,Research & Development,Life Sciences,<6223
+657,<35,Yes,Travel_Rarely,Research & Development,Medical,<6223
+555,>=35,Yes,Travel_Rarely,Research & Development,Medical,<6223
+194,<35,Yes,Travel_Rarely,Sales,Marketing,>=6223
+139,<35,Yes,Travel_Rarely,Sales,Marketing,<6223
+755,<35,Yes,Travel_Rarely,Sales,Medical,<6223
+9,<35,Yes,Travel_Rarely,Sales,Life Sciences,<6223
+818,<35,Yes,Travel_Rarely,Research & Development,Medical,<6223
+992,>=35,Yes,Travel_Frequently,Research & Development,Medical,<6223
+605,<35,Yes,Travel_Rarely,Sales,Marketing,<6223
+164,<35,Yes,Travel_Rarely,Research & Development,Life Sciences,<6223
+86,<35,Yes,Travel_Rarely,Research & Development,Medical,<6223
+267,<35,No,Travel_Rarely,Research & Development,Life Sciences,<6223
+240,>=35,No,Travel_Rarely,Research & Development,Medical,<6223
+143,<35,No,Travel_Rarely,Sales,Life Sciences,<6223
+532,<35,No,Travel_Frequently,Sales,Marketing,<6223
+339,>=35,No,Travel_Rarely,Human Resources,Medical,<6223
+705,>=35,No,Travel_Frequently,Research & Development,Life Sciences,>=6223
+375,>=35,No,Travel_Rarely,Research & Development,Life Sciences,>=6223
+677,>=35,No,Travel_Frequently,Research & Development,Medical,>=6223
+615,<35,No,Travel_Rarely,Research & Development,Medical,<6223
+596,<35,No,Travel_Rarely,Sales,Marketing,>=6223
+286,>=35,No,Travel_Rarely,Research & Development,Life Sciences,<6223
+599,<35,No,Travel_Rarely,Research & Development,Medical,<6223
+798,<35,No,Travel_Rarely,Sales,Marketing,<6223
+32,<35,No,Non-Travel,Research & Development,Medical,>=6223
+877,<35,No,Travel_Rarely,Sales,Medical,<6223
+765,>=35,No,Travel_Rarely,Research & Development,Medical,<6223
+238,>=35,No,Travel_Rarely,Research & Development,Life Sciences,<6223
+720,>=35,No,Travel_Rarely,Research & Development,Life Sciences,>=6223
+785,>=35,No,Travel_Rarely,Research & Development,Life Sciences,<6223
+970,<35,No,Travel_Rarely,Sales,Life Sciences,<6223
+43,>=35,No,Non-Travel,Sales,Medical,>=6223
+250,>=35,No,Travel_Rarely,Research & Development,Life Sciences,<6223
+983,>=35,No,Travel_Rarely,Research & Development,Life Sciences,<6223
+537,<35,No,Travel_Frequently,Research & Development,Life Sciences,<6223
+562,>=35,No,Travel_Rarely,Research & Development,Medical,<6223
+177,<35,No,Travel_Rarely,Research & Development,Life Sciences,<6223
+898,<35,No,Non-Travel,Sales,Marketing,>=6223
+740,>=35,No,Travel_Rarely,Research & Development,Medical,>=6223
+955,>=35,No,Travel_Rarely,Research & Development,Medical,<6223
+268,>=35,No,Travel_Rarely,Research & Development,Medical,>=6223

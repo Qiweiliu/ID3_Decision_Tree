@@ -1,0 +1,1001 @@
+Age,Attrition,BusinessTravel,Department,EducationField,MonthlyIncome
+30,No,Travel_Rarely,Research & Development,Technical Degree,4627
+27,No,Travel_Rarely,Research & Development,Medical,3468
+56,Yes,Travel_Rarely,Research & Development,Life Sciences,2587
+24,No,Non-Travel,Research & Development,Life Sciences,2694
+39,No,Non-Travel,Research & Development,Life Sciences,6782
+40,No,Travel_Rarely,Research & Development,Life Sciences,6513
+32,Yes,Non-Travel,Sales,Other,4707
+45,No,Travel_Rarely,Research & Development,Other,13245
+31,No,Travel_Rarely,Research & Development,Life Sciences,3477
+31,Yes,Travel_Rarely,Sales,Life Sciences,6172
+34,No,Non-Travel,Sales,Life Sciences,4001
+37,No,Travel_Rarely,Sales,Life Sciences,6694
+35,No,Travel_Rarely,Research & Development,Medical,2660
+39,No,Travel_Rarely,Research & Development,Medical,9613
+35,No,Travel_Rarely,Research & Development,Life Sciences,10685
+38,No,Travel_Frequently,Research & Development,Medical,2440
+23,No,Travel_Rarely,Research & Development,Medical,3295
+40,No,Travel_Rarely,Sales,Technical Degree,6852
+28,No,Travel_Frequently,Research & Development,Life Sciences,3867
+30,No,Travel_Rarely,Sales,Medical,5209
+24,No,Non-Travel,Sales,Life Sciences,2033
+60,No,Travel_Frequently,Sales,Marketing,10266
+56,Yes,Travel_Rarely,Research & Development,Technical Degree,2339
+21,No,Non-Travel,Sales,Medical,2610
+54,No,Travel_Rarely,Research & Development,Medical,19406
+39,No,Non-Travel,Research & Development,Life Sciences,19431
+37,No,Travel_Rarely,Research & Development,Life Sciences,5993
+30,No,Travel_Rarely,Human Resources,Life Sciences,2064
+27,No,Travel_Rarely,Sales,Medical,2534
+46,No,Travel_Rarely,Research & Development,Medical,19627
+38,Yes,Travel_Rarely,Research & Development,Medical,6673
+35,Yes,Travel_Frequently,Sales,Marketing,4614
+31,No,Non-Travel,Research & Development,Medical,11031
+37,No,Non-Travel,Sales,Medical,8834
+60,No,Travel_Rarely,Sales,Marketing,5405
+49,No,Travel_Rarely,Sales,Marketing,4507
+49,No,Travel_Rarely,Research & Development,Other,10965
+35,No,Non-Travel,Research & Development,Medical,9884
+29,Yes,Travel_Frequently,Research & Development,Other,7553
+47,No,Travel_Rarely,Research & Development,Other,16752
+48,No,Travel_Rarely,Research & Development,Medical,2259
+56,No,Travel_Rarely,Research & Development,Medical,11103
+35,No,Travel_Rarely,Research & Development,Life Sciences,10274
+58,No,Non-Travel,Sales,Medical,16291
+42,No,Travel_Rarely,Sales,Marketing,5155
+49,Yes,Travel_Rarely,Sales,Marketing,7654
+44,No,Travel_Frequently,Research & Development,Medical,10209
+47,No,Travel_Rarely,Research & Development,Medical,8633
+27,No,Travel_Rarely,Research & Development,Medical,3517
+51,No,Travel_Rarely,Research & Development,Technical Degree,13116
+34,No,Travel_Rarely,Sales,Marketing,9888
+36,No,Travel_Rarely,Sales,Life Sciences,2644
+53,No,Non-Travel,Research & Development,Medical,12965
+29,No,Travel_Frequently,Research & Development,Medical,3812
+26,No,Travel_Rarely,Sales,Marketing,4157
+38,No,Travel_Rarely,Research & Development,Life Sciences,8823
+41,No,Non-Travel,Sales,Life Sciences,6230
+30,No,Travel_Rarely,Sales,Technical Degree,2476
+34,No,Travel_Rarely,Research & Development,Life Sciences,11994
+27,No,Travel_Rarely,Research & Development,Life Sciences,7412
+55,Yes,Travel_Rarely,Research & Development,Medical,19859
+32,No,Travel_Rarely,Research & Development,Other,3312
+52,No,Non-Travel,Sales,Life Sciences,19068
+30,Yes,Travel_Rarely,Sales,Life Sciences,9714
+47,No,Travel_Rarely,Research & Development,Life Sciences,18300
+29,No,Travel_Rarely,Sales,Medical,4187
+33,No,Non-Travel,Sales,Marketing,5147
+28,Yes,Travel_Frequently,Research & Development,Medical,2596
+50,No,Travel_Rarely,Sales,Marketing,19331
+54,No,Travel_Rarely,Research & Development,Life Sciences,17779
+42,No,Travel_Rarely,Research & Development,Medical,5538
+60,No,Travel_Rarely,Research & Development,Medical,10883
+38,No,Travel_Frequently,Research & Development,Life Sciences,4735
+59,No,Travel_Rarely,Sales,Technical Degree,11904
+33,Yes,Travel_Frequently,Research & Development,Life Sciences,3348
+25,No,Travel_Rarely,Sales,Life Sciences,4950
+28,Yes,Travel_Rarely,Research & Development,Life Sciences,3485
+36,No,Travel_Rarely,Research & Development,Life Sciences,6842
+48,No,Travel_Rarely,Research & Development,Life Sciences,4240
+32,No,Non-Travel,Research & Development,Medical,6667
+30,No,Travel_Frequently,Research & Development,Medical,2083
+58,No,Travel_Frequently,Research & Development,Life Sciences,15787
+30,No,Non-Travel,Sales,Technical Degree,4736
+23,Yes,Travel_Rarely,Research & Development,Life Sciences,1601
+38,No,Travel_Rarely,Research & Development,Life Sciences,5745
+43,No,Travel_Frequently,Research & Development,Medical,5679
+25,Yes,Travel_Rarely,Research & Development,Medical,4031
+24,Yes,Travel_Rarely,Sales,Life Sciences,4577
+35,No,Non-Travel,Research & Development,Medical,5762
+36,No,Non-Travel,Sales,Medical,6653
+36,Yes,Travel_Rarely,Sales,Life Sciences,10325
+38,No,Travel_Frequently,Research & Development,Life Sciences,1702
+58,Yes,Travel_Rarely,Research & Development,Life Sciences,19246
+29,Yes,Travel_Rarely,Research & Development,Medical,4787
+19,No,Travel_Rarely,Research & Development,Medical,1483
+57,No,Travel_Rarely,Research & Development,Medical,6755
+41,No,Non-Travel,Research & Development,Other,6811
+56,No,Travel_Rarely,Research & Development,Life Sciences,7260
+28,No,Travel_Rarely,Sales,Medical,4908
+30,No,Travel_Rarely,Sales,Marketing,5304
+32,No,Travel_Rarely,Sales,Life Sciences,3931
+35,No,Travel_Rarely,Research & Development,Other,10221
+24,Yes,Travel_Rarely,Research & Development,Life Sciences,2210
+31,No,Travel_Rarely,Human Resources,Human Resources,6410
+26,No,Travel_Rarely,Research & Development,Medical,3955
+33,No,Non-Travel,Research & Development,Medical,2008
+34,No,Travel_Rarely,Research & Development,Life Sciences,5433
+35,No,Travel_Rarely,Sales,Life Sciences,7823
+26,No,Travel_Rarely,Research & Development,Other,3578
+44,No,Travel_Rarely,Research & Development,Life Sciences,3420
+21,Yes,Travel_Rarely,Research & Development,Life Sciences,1416
+40,No,Travel_Rarely,Sales,Marketing,9705
+30,No,Travel_Rarely,Sales,Technical Degree,6577
+19,No,Travel_Rarely,Research & Development,Life Sciences,2552
+33,Yes,Travel_Rarely,Research & Development,Medical,2313
+51,No,Travel_Rarely,Research & Development,Life Sciences,2723
+45,No,Travel_Rarely,Sales,Life Sciences,4850
+38,No,Travel_Rarely,Research & Development,Life Sciences,3944
+42,No,Travel_Rarely,Research & Development,Life Sciences,18880
+36,No,Travel_Frequently,Human Resources,Human Resources,3886
+44,Yes,Travel_Frequently,Research & Development,Medical,2342
+34,No,Travel_Rarely,Research & Development,Medical,2972
+50,No,Travel_Frequently,Sales,Marketing,9208
+22,No,Travel_Rarely,Research & Development,Life Sciences,4775
+25,No,Travel_Rarely,Sales,Other,4907
+25,No,Travel_Frequently,Research & Development,Life Sciences,5206
+44,Yes,Travel_Rarely,Research & Development,Medical,7978
+51,Yes,Travel_Frequently,Research & Development,Life Sciences,10650
+29,No,Travel_Rarely,Sales,Marketing,6931
+31,Yes,Travel_Frequently,Research & Development,Life Sciences,9824
+33,No,Travel_Frequently,Research & Development,Life Sciences,7725
+39,No,Travel_Rarely,Sales,Life Sciences,7880
+24,No,Travel_Rarely,Sales,Other,4999
+42,No,Travel_Frequently,Research & Development,Life Sciences,10124
+34,No,Travel_Rarely,Research & Development,Life Sciences,2768
+35,No,Travel_Rarely,Research & Development,Medical,4014
+39,No,Travel_Rarely,Research & Development,Medical,5151
+30,Yes,Travel_Frequently,Human Resources,Human Resources,2180
+18,Yes,Travel_Rarely,Research & Development,Life Sciences,1420
+29,Yes,Travel_Rarely,Sales,Marketing,2760
+33,No,Travel_Rarely,Research & Development,Medical,11691
+40,No,Travel_Rarely,Research & Development,Medical,19033
+36,No,Non-Travel,Sales,Technical Degree,5079
+29,No,Travel_Rarely,Sales,Life Sciences,2642
+31,No,Travel_Rarely,Research & Development,Life Sciences,4424
+42,No,Travel_Rarely,Research & Development,Other,6781
+29,No,Non-Travel,Research & Development,Technical Degree,4319
+42,No,Travel_Rarely,Sales,Marketing,6825
+58,Yes,Travel_Rarely,Research & Development,Medical,10008
+50,No,Travel_Rarely,Research & Development,Medical,17399
+33,No,Travel_Frequently,Research & Development,Life Sciences,13458
+42,No,Travel_Rarely,Research & Development,Life Sciences,15992
+27,No,Travel_Rarely,Research & Development,Life Sciences,2235
+22,Yes,Travel_Frequently,Research & Development,Life Sciences,2853
+40,No,Non-Travel,Research & Development,Life Sciences,4876
+35,No,Travel_Frequently,Sales,Life Sciences,9069
+29,No,Travel_Frequently,Research & Development,Life Sciences,3291
+31,Yes,Travel_Frequently,Research & Development,Life Sciences,7446
+21,No,Travel_Rarely,Research & Development,Medical,3230
+41,No,Travel_Rarely,Research & Development,Medical,2127
+34,No,Travel_Rarely,Research & Development,Life Sciences,3280
+55,No,Travel_Rarely,Research & Development,Technical Degree,2662
+31,Yes,Travel_Frequently,Research & Development,Medical,3479
+28,No,Travel_Rarely,Research & Development,Medical,2070
+22,Yes,Travel_Rarely,Research & Development,Life Sciences,2472
+33,No,Travel_Rarely,Sales,Medical,4037
+40,No,Travel_Rarely,Research & Development,Life Sciences,2809
+31,No,Non-Travel,Research & Development,Medical,9936
+35,Yes,Travel_Frequently,Research & Development,Life Sciences,2022
+46,No,Travel_Rarely,Research & Development,Life Sciences,8578
+35,No,Travel_Rarely,Research & Development,Life Sciences,8606
+34,No,Travel_Frequently,Research & Development,Technical Degree,5063
+43,No,Travel_Rarely,Sales,Marketing,16064
+29,No,Travel_Rarely,Research & Development,Technical Degree,2109
+28,No,Travel_Rarely,Research & Development,Life Sciences,6549
+26,No,Travel_Rarely,Sales,Marketing,6272
+33,No,Travel_Rarely,Human Resources,Human Resources,3600
+27,No,Travel_Rarely,Research & Development,Life Sciences,2517
+28,No,Non-Travel,Research & Development,Medical,2144
+33,No,Travel_Rarely,Research & Development,Other,2799
+35,No,Travel_Frequently,Research & Development,Life Sciences,9362
+24,Yes,Travel_Frequently,Research & Development,Medical,3172
+42,No,Travel_Frequently,Research & Development,Medical,2515
+55,No,Non-Travel,Research & Development,Medical,16756
+38,No,Travel_Frequently,Research & Development,Other,2821
+51,No,Travel_Rarely,Sales,Life Sciences,4936
+40,No,Travel_Rarely,Sales,Life Sciences,4639
+31,No,Travel_Frequently,Research & Development,Life Sciences,5003
+40,No,Travel_Rarely,Sales,Marketing,5715
+27,No,Non-Travel,Research & Development,Medical,2024
+27,No,Travel_Rarely,Research & Development,Medical,2045
+24,No,Travel_Rarely,Sales,Medical,4162
+25,No,Travel_Rarely,Research & Development,Medical,3669
+32,No,Travel_Rarely,Research & Development,Life Sciences,5878
+32,Yes,Travel_Rarely,Sales,Marketing,9907
+38,No,Travel_Rarely,Research & Development,Medical,9824
+50,No,Travel_Rarely,Research & Development,Life Sciences,19144
+36,No,Travel_Rarely,Sales,Life Sciences,4502
+39,No,Travel_Frequently,Research & Development,Life Sciences,19197
+37,No,Travel_Rarely,Research & Development,Medical,4285
+44,No,Travel_Rarely,Research & Development,Life Sciences,19190
+34,No,Travel_Rarely,Sales,Life Sciences,5714
+42,No,Non-Travel,Research & Development,Life Sciences,17861
+31,Yes,Travel_Rarely,Human Resources,Human Resources,2956
+49,No,Travel_Rarely,Research & Development,Life Sciences,10466
+34,Yes,Travel_Frequently,Sales,Marketing,2351
+50,No,Travel_Frequently,Human Resources,Medical,18200
+30,No,Travel_Rarely,Research & Development,Medical,11916
+35,Yes,Travel_Rarely,Sales,Medical,5440
+31,No,Travel_Rarely,Sales,Life Sciences,6582
+43,No,Travel_Rarely,Research & Development,Life Sciences,19740
+32,Yes,Travel_Rarely,Research & Development,Life Sciences,1393
+38,No,Travel_Rarely,Sales,Life Sciences,9924
+37,No,Travel_Rarely,Research & Development,Life Sciences,2782
+28,No,Travel_Rarely,Research & Development,Technical Degree,2080
+34,No,Travel_Rarely,Research & Development,Medical,2932
+20,Yes,Travel_Frequently,Research & Development,Life Sciences,2926
+20,Yes,Travel_Rarely,Research & Development,Medical,1009
+53,No,Travel_Rarely,Research & Development,Other,19094
+24,No,Travel_Rarely,Sales,Marketing,4260
+41,Yes,Travel_Rarely,Sales,Life Sciences,5993
+38,No,Travel_Rarely,Sales,Life Sciences,4440
+26,No,Travel_Rarely,Research & Development,Medical,4420
+22,No,Travel_Rarely,Research & Development,Medical,2323
+36,No,Travel_Frequently,Sales,Technical Degree,9738
+50,Yes,Travel_Rarely,Sales,Marketing,10854
+60,No,Travel_Rarely,Research & Development,Life Sciences,19566
+52,Yes,Travel_Rarely,Sales,Marketing,19845
+55,No,Travel_Rarely,Research & Development,Technical Degree,5415
+34,No,Travel_Rarely,Research & Development,Life Sciences,5121
+30,No,Travel_Frequently,Research & Development,Life Sciences,3761
+25,No,Travel_Rarely,Sales,Medical,2096
+46,No,Travel_Rarely,Research & Development,Life Sciences,19081
+34,No,Travel_Rarely,Research & Development,Medical,4325
+59,No,Travel_Rarely,Research & Development,Life Sciences,2177
+22,No,Non-Travel,Research & Development,Medical,2935
+49,No,Travel_Rarely,Research & Development,Medical,4789
+29,No,Travel_Frequently,Research & Development,Life Sciences,8853
+41,No,Travel_Rarely,Research & Development,Life Sciences,2451
+32,No,Travel_Rarely,Research & Development,Life Sciences,2956
+44,No,Travel_Rarely,Research & Development,Medical,2436
+32,No,Travel_Rarely,Research & Development,Medical,2370
+37,No,Travel_Rarely,Research & Development,Life Sciences,2115
+23,No,Travel_Rarely,Research & Development,Other,2647
+47,No,Travel_Rarely,Sales,Medical,4591
+34,No,Travel_Frequently,Research & Development,Other,2996
+28,No,Travel_Rarely,Research & Development,Life Sciences,2207
+36,No,Travel_Rarely,Research & Development,Medical,5237
+40,No,Travel_Rarely,Research & Development,Medical,2345
+37,No,Travel_Rarely,Research & Development,Life Sciences,6447
+36,No,Travel_Rarely,Research & Development,Life Sciences,3210
+28,Yes,Travel_Rarely,Research & Development,Life Sciences,2028
+33,No,Travel_Rarely,Sales,Medical,5505
+36,No,Travel_Rarely,Research & Development,Technical Degree,10252
+40,No,Travel_Rarely,Sales,Medical,5473
+55,Yes,Travel_Rarely,Sales,Marketing,13695
+33,No,Travel_Frequently,Sales,Life Sciences,4302
+34,No,Travel_Frequently,Research & Development,Life Sciences,9547
+28,No,Non-Travel,Human Resources,Life Sciences,2706
+38,No,Travel_Frequently,Research & Development,Medical,2684
+38,No,Travel_Rarely,Research & Development,Technical Degree,13582
+46,Yes,Travel_Rarely,Sales,Marketing,10096
+29,No,Travel_Frequently,Research & Development,Life Sciences,6294
+39,No,Travel_Rarely,Research & Development,Medical,17123
+56,No,Travel_Rarely,Research & Development,Life Sciences,4257
+53,No,Travel_Rarely,Sales,Medical,14852
+34,Yes,Travel_Rarely,Research & Development,Medical,2960
+26,No,Travel_Rarely,Research & Development,Life Sciences,2886
+47,No,Travel_Rarely,Research & Development,Medical,17169
+30,No,Travel_Rarely,Research & Development,Life Sciences,2862
+52,No,Travel_Frequently,Research & Development,Medical,13826
+45,No,Travel_Rarely,Research & Development,Life Sciences,2348
+38,No,Travel_Rarely,Research & Development,Medical,13206
+52,No,Non-Travel,Research & Development,Medical,4258
+35,No,Travel_Rarely,Research & Development,Life Sciences,11996
+52,No,Travel_Frequently,Research & Development,Medical,13247
+37,No,Travel_Rarely,Research & Development,Medical,3936
+28,No,Travel_Frequently,Sales,Life Sciences,6834
+36,No,Travel_Rarely,Research & Development,Medical,8847
+36,No,Non-Travel,Sales,Medical,9980
+36,No,Travel_Rarely,Research & Development,Other,5228
+32,No,Travel_Rarely,Research & Development,Life Sciences,3038
+32,No,Travel_Frequently,Research & Development,Life Sciences,3433
+31,No,Travel_Rarely,Research & Development,Life Sciences,2218
+39,No,Travel_Rarely,Research & Development,Life Sciences,8376
+49,No,Travel_Rarely,Research & Development,Life Sciences,3211
+37,No,Travel_Rarely,Research & Development,Life Sciences,4680
+40,No,Non-Travel,Sales,Other,10932
+40,No,Travel_Rarely,Sales,Marketing,10855
+45,No,Travel_Rarely,Sales,Life Sciences,5006
+30,No,Travel_Rarely,Research & Development,Medical,2206
+41,No,Travel_Rarely,Research & Development,Life Sciences,2289
+31,No,Non-Travel,Sales,Life Sciences,9852
+59,No,Travel_Rarely,Research & Development,Medical,2670
+36,No,Travel_Rarely,Human Resources,Life Sciences,2342
+29,Yes,Travel_Frequently,Sales,Technical Degree,5765
+43,No,Travel_Rarely,Research & Development,Life Sciences,4765
+32,Yes,Travel_Rarely,Research & Development,Life Sciences,2795
+41,Yes,Non-Travel,Research & Development,Life Sciences,2107
+37,No,Travel_Rarely,Sales,Medical,6502
+35,No,Travel_Rarely,Sales,Medical,4601
+30,No,Non-Travel,Research & Development,Medical,2564
+33,Yes,Travel_Frequently,Research & Development,Medical,4508
+41,No,Travel_Rarely,Research & Development,Life Sciences,4766
+26,No,Travel_Rarely,Research & Development,Other,2368
+28,No,Travel_Rarely,Research & Development,Medical,3196
+25,Yes,Travel_Rarely,Sales,Life Sciences,4400
+32,No,Travel_Frequently,Sales,Marketing,4648
+46,No,Non-Travel,Research & Development,Medical,5258
+32,Yes,Travel_Rarely,Sales,Life Sciences,6735
+21,Yes,Travel_Rarely,Sales,Life Sciences,2716
+38,No,Travel_Rarely,Sales,Life Sciences,6893
+38,No,Travel_Frequently,Human Resources,Human Resources,6077
+26,No,Travel_Rarely,Research & Development,Medical,2305
+50,Yes,Travel_Frequently,Sales,Life Sciences,6728
+34,No,Travel_Frequently,Research & Development,Medical,3815
+55,No,Travel_Frequently,Research & Development,Life Sciences,10976
+56,Yes,Travel_Rarely,Research & Development,Life Sciences,4963
+56,No,Travel_Frequently,Research & Development,Medical,2942
+42,No,Travel_Rarely,Research & Development,Life Sciences,5410
+36,No,Non-Travel,Sales,Life Sciences,7587
+32,Yes,Travel_Frequently,Research & Development,Life Sciences,2432
+30,No,Travel_Frequently,Research & Development,Medical,4011
+22,Yes,Travel_Rarely,Research & Development,Life Sciences,4171
+29,Yes,Travel_Rarely,Research & Development,Technical Degree,2546
+29,No,Travel_Rarely,Research & Development,Life Sciences,2700
+26,Yes,Travel_Rarely,Sales,Technical Degree,5326
+35,No,Travel_Rarely,Sales,Marketing,4312
+36,Yes,Travel_Rarely,Research & Development,Life Sciences,2743
+39,No,Travel_Rarely,Research & Development,Life Sciences,4108
+21,Yes,Travel_Rarely,Sales,Marketing,2679
+37,No,Travel_Rarely,Research & Development,Medical,13664
+22,No,Travel_Rarely,Research & Development,Medical,2871
+32,No,Travel_Rarely,Research & Development,Medical,5175
+35,No,Non-Travel,Research & Development,Life Sciences,4148
+44,No,Travel_Rarely,Research & Development,Life Sciences,2559
+27,No,Travel_Rarely,Research & Development,Life Sciences,4227
+33,No,Travel_Rarely,Research & Development,Life Sciences,5207
+31,No,Travel_Rarely,Research & Development,Life Sciences,16422
+46,No,Travel_Rarely,Human Resources,Medical,5021
+43,No,Travel_Rarely,Sales,Medical,7847
+30,No,Travel_Rarely,Research & Development,Other,9957
+23,No,Travel_Rarely,Sales,Technical Degree,2322
+32,No,Travel_Rarely,Research & Development,Technical Degree,2439
+26,No,Travel_Rarely,Research & Development,Medical,3904
+36,No,Travel_Rarely,Sales,Marketing,9278
+41,No,Travel_Rarely,Research & Development,Medical,6032
+38,No,Travel_Frequently,Research & Development,Life Sciences,6288
+55,No,Travel_Rarely,Sales,Life Sciences,16835
+32,Yes,Travel_Frequently,Research & Development,Life Sciences,3919
+46,No,Travel_Rarely,Sales,Marketing,18947
+40,No,Travel_Rarely,Research & Development,Medical,19436
+29,No,Travel_Rarely,Research & Development,Life Sciences,9980
+35,No,Travel_Rarely,Research & Development,Medical,5098
+25,Yes,Travel_Frequently,Sales,Life Sciences,1118
+24,No,Travel_Rarely,Research & Development,Medical,4377
+45,No,Non-Travel,Research & Development,Life Sciences,3633
+45,No,Non-Travel,Sales,Life Sciences,5154
+28,No,Travel_Frequently,Sales,Life Sciences,4898
+42,No,Travel_Frequently,Sales,Marketing,13525
+26,No,Travel_Frequently,Research & Development,Life Sciences,6397
+31,Yes,Travel_Frequently,Sales,Life Sciences,2302
+34,No,Travel_Rarely,Research & Development,Medical,5429
+34,No,Travel_Rarely,Sales,Life Sciences,9713
+35,No,Travel_Rarely,Sales,Marketing,4717
+36,No,Travel_Rarely,Research & Development,Life Sciences,2013
+35,No,Travel_Rarely,Research & Development,Life Sciences,2977
+19,No,Travel_Rarely,Research & Development,Life Sciences,2994
+38,No,Travel_Rarely,Sales,Life Sciences,5343
+27,No,Travel_Rarely,Research & Development,Medical,6811
+30,Yes,Travel_Frequently,Research & Development,Technical Degree,2285
+26,No,Travel_Rarely,Sales,Medical,4684
+35,No,Travel_Rarely,Research & Development,Life Sciences,3407
+58,No,Travel_Rarely,Research & Development,Technical Degree,10552
+26,Yes,Non-Travel,Sales,Medical,4969
+48,No,Travel_Rarely,Research & Development,Life Sciences,7898
+53,No,Travel_Rarely,Research & Development,Medical,7005
+55,No,Non-Travel,Research & Development,Medical,13577
+49,No,Travel_Rarely,Research & Development,Other,7403
+30,No,Travel_Frequently,Research & Development,Technical Degree,4968
+30,No,Travel_Rarely,Research & Development,Life Sciences,2693
+24,No,Travel_Rarely,Research & Development,Medical,2725
+31,Yes,Travel_Frequently,Sales,Life Sciences,2785
+40,No,Travel_Frequently,Sales,Life Sciences,10475
+33,No,Travel_Rarely,Research & Development,Life Sciences,3452
+39,Yes,Travel_Frequently,Research & Development,Life Sciences,12169
+52,No,Travel_Rarely,Research & Development,Life Sciences,3212
+33,No,Travel_Rarely,Research & Development,Life Sciences,6388
+30,No,Travel_Rarely,Research & Development,Medical,6877
+37,No,Travel_Frequently,Sales,Marketing,2793
+50,No,Travel_Rarely,Research & Development,Medical,3690
+34,No,Travel_Rarely,Research & Development,Life Sciences,8500
+29,No,Travel_Rarely,Sales,Marketing,2297
+31,No,Travel_Rarely,Sales,Marketing,5468
+53,No,Travel_Rarely,Sales,Marketing,10934
+38,No,Travel_Rarely,Sales,Life Sciences,4198
+45,Yes,Travel_Frequently,Sales,Life Sciences,4286
+32,No,Travel_Rarely,Sales,Technical Degree,5228
+21,Yes,Travel_Rarely,Research & Development,Other,2693
+34,No,Travel_Rarely,Sales,Marketing,6712
+47,No,Travel_Rarely,Sales,Life Sciences,15972
+55,No,Travel_Rarely,Research & Development,Medical,14732
+43,No,Travel_Rarely,Research & Development,Life Sciences,7510
+36,No,Travel_Rarely,Sales,Marketing,6652
+45,No,Travel_Frequently,Research & Development,Life Sciences,5210
+42,No,Travel_Rarely,Research & Development,Medical,4272
+42,No,Travel_Rarely,Research & Development,Life Sciences,6062
+31,No,Travel_Rarely,Sales,Life Sciences,3067
+53,No,Travel_Rarely,Sales,Medical,8381
+31,Yes,Travel_Rarely,Sales,Medical,4233
+31,No,Travel_Rarely,Sales,Life Sciences,10793
+30,No,Travel_Rarely,Research & Development,Life Sciences,6091
+35,No,Travel_Rarely,Sales,Life Sciences,2404
+43,No,Travel_Rarely,Sales,Medical,10798
+19,Yes,Travel_Rarely,Research & Development,Life Sciences,1102
+29,Yes,Travel_Rarely,Research & Development,Technical Degree,2058
+42,No,Travel_Rarely,Research & Development,Life Sciences,2576
+18,Yes,Non-Travel,Research & Development,Medical,1904
+38,No,Travel_Rarely,Sales,Life Sciences,8686
+25,No,Travel_Rarely,Sales,Life Sciences,8639
+52,No,Travel_Rarely,Research & Development,Life Sciences,16555
+18,No,Non-Travel,Research & Development,Life Sciences,1611
+45,No,Non-Travel,Research & Development,Medical,16792
+52,No,Travel_Rarely,Research & Development,Medical,7969
+31,Yes,Travel_Frequently,Sales,Marketing,5617
+36,No,Travel_Rarely,Research & Development,Life Sciences,3038
+26,Yes,Travel_Rarely,Research & Development,Technical Degree,2340
+44,No,Non-Travel,Research & Development,Life Sciences,3162
+50,Yes,Travel_Frequently,Sales,Technical Degree,6796
+47,No,Non-Travel,Research & Development,Technical Degree,5467
+56,No,Travel_Rarely,Research & Development,Life Sciences,13402
+42,No,Travel_Rarely,Research & Development,Life Sciences,4089
+33,No,Travel_Rarely,Human Resources,Human Resources,2277
+40,Yes,Travel_Rarely,Research & Development,Life Sciences,2018
+31,No,Travel_Rarely,Sales,Marketing,7547
+44,No,Travel_Rarely,Research & Development,Other,6465
+41,No,Travel_Rarely,Research & Development,Life Sciences,2782
+27,No,Travel_Rarely,Research & Development,Technical Degree,12808
+28,No,Travel_Frequently,Research & Development,Medical,2154
+37,No,Travel_Rarely,Human Resources,Other,4071
+51,Yes,Travel_Rarely,Research & Development,Life Sciences,2461
+35,No,Travel_Rarely,Research & Development,Life Sciences,2269
+27,No,Travel_Rarely,Research & Development,Other,4066
+34,Yes,Non-Travel,Research & Development,Technical Degree,2307
+40,No,Non-Travel,Research & Development,Life Sciences,4069
+35,No,Travel_Frequently,Research & Development,Life Sciences,5689
+34,No,Travel_Frequently,Research & Development,Other,5747
+27,No,Travel_Rarely,Research & Development,Life Sciences,6142
+34,No,Travel_Rarely,Sales,Marketing,4538
+42,No,Non-Travel,Research & Development,Life Sciences,4332
+41,Yes,Travel_Frequently,Sales,Marketing,9355
+31,No,Travel_Rarely,Research & Development,Life Sciences,2911
+40,No,Travel_Rarely,Research & Development,Medical,2342
+31,No,Travel_Rarely,Research & Development,Life Sciences,2657
+39,No,Travel_Rarely,Sales,Marketing,12031
+31,No,Travel_Rarely,Sales,Life Sciences,11557
+30,No,Travel_Rarely,Sales,Marketing,6578
+28,Yes,Travel_Rarely,Research & Development,Medical,3464
+21,No,Travel_Rarely,Sales,Technical Degree,3447
+33,No,Travel_Frequently,Sales,Life Sciences,5376
+29,Yes,Travel_Rarely,Research & Development,Medical,2389
+18,Yes,Travel_Frequently,Sales,Medical,1569
+34,No,Travel_Rarely,Sales,Technical Degree,6799
+58,Yes,Travel_Frequently,Research & Development,Life Sciences,2380
+38,No,Travel_Rarely,Sales,Life Sciences,10609
+34,No,Travel_Rarely,Sales,Technical Degree,2579
+43,No,Travel_Frequently,Research & Development,Life Sciences,10820
+31,No,Travel_Rarely,Research & Development,Medical,5855
+41,No,Travel_Rarely,Sales,Marketing,8392
+29,No,Travel_Rarely,Research & Development,Life Sciences,2703
+39,No,Travel_Rarely,Research & Development,Life Sciences,4534
+45,No,Travel_Rarely,Research & Development,Medical,2270
+50,No,Travel_Rarely,Research & Development,Life Sciences,19926
+34,No,Travel_Rarely,Sales,Medical,8628
+36,No,Travel_Rarely,Research & Development,Life Sciences,8321
+35,No,Travel_Rarely,Sales,Life Sciences,2572
+36,Yes,Travel_Rarely,Research & Development,Medical,3388
+28,Yes,Travel_Rarely,Sales,Marketing,9854
+46,No,Travel_Rarely,Sales,Marketing,17465
+34,No,Travel_Rarely,Sales,Life Sciences,6029
+41,No,Travel_Frequently,Research & Development,Medical,19419
+38,No,Travel_Rarely,Research & Development,Medical,5811
+37,Yes,Travel_Rarely,Sales,Life Sciences,10609
+38,No,Travel_Rarely,Sales,Marketing,8740
+31,Yes,Travel_Frequently,Research & Development,Medical,2610
+45,No,Travel_Rarely,Research & Development,Technical Degree,9380
+31,No,Non-Travel,Research & Development,Medical,4345
+33,Yes,Travel_Rarely,Sales,Marketing,8224
+35,No,Travel_Frequently,Sales,Marketing,4968
+41,No,Travel_Rarely,Research & Development,Medical,5003
+38,No,Travel_Frequently,Research & Development,Medical,2133
+33,No,Travel_Frequently,Sales,Medical,4373
+27,No,Travel_Rarely,Research & Development,Life Sciences,2318
+34,No,Travel_Rarely,Research & Development,Medical,6142
+36,No,Travel_Rarely,Sales,Life Sciences,6201
+19,Yes,Non-Travel,Research & Development,Medical,1859
+39,No,Travel_Rarely,Research & Development,Other,3902
+44,No,Non-Travel,Research & Development,Medical,2042
+39,No,Travel_Rarely,Research & Development,Medical,13464
+49,No,Travel_Rarely,Sales,Technical Degree,13120
+38,No,Travel_Rarely,Research & Development,Life Sciences,6553
+26,Yes,Travel_Frequently,Research & Development,Life Sciences,2042
+45,No,Travel_Rarely,Research & Development,Medical,4477
+41,No,Travel_Rarely,Sales,Marketing,4393
+48,No,Travel_Rarely,Research & Development,Life Sciences,19665
+46,No,Travel_Rarely,Research & Development,Medical,10845
+30,No,Travel_Rarely,Sales,Marketing,7140
+54,No,Travel_Rarely,Research & Development,Life Sciences,3780
+32,No,Travel_Rarely,Research & Development,Life Sciences,6220
+53,Yes,Travel_Rarely,Research & Development,Technical Degree,10169
+30,No,Travel_Rarely,Sales,Marketing,4779
+41,No,Travel_Rarely,Sales,Life Sciences,8189
+36,No,Travel_Rarely,Sales,Marketing,5507
+51,No,Travel_Rarely,Research & Development,Life Sciences,2075
+45,No,Non-Travel,Research & Development,Life Sciences,10748
+35,No,Travel_Rarely,Research & Development,Life Sciences,2690
+45,No,Travel_Rarely,Research & Development,Medical,5769
+20,No,Travel_Rarely,Sales,Marketing,2678
+25,No,Travel_Rarely,Human Resources,Human Resources,2187
+50,No,Travel_Rarely,Research & Development,Technical Degree,10496
+28,Yes,Travel_Rarely,Research & Development,Medical,2408
+33,No,Travel_Rarely,Sales,Life Sciences,6392
+37,No,Non-Travel,Research & Development,Technical Degree,3500
+28,Yes,Non-Travel,Research & Development,Technical Degree,8722
+35,Yes,Travel_Rarely,Research & Development,Other,3743
+29,No,Travel_Rarely,Research & Development,Life Sciences,2201
+27,No,Travel_Rarely,Research & Development,Technical Degree,3058
+39,No,Travel_Rarely,Sales,Life Sciences,6120
+38,No,Travel_Rarely,Research & Development,Other,3702
+41,No,Travel_Rarely,Research & Development,Life Sciences,6870
+35,No,Travel_Rarely,Research & Development,Medical,5363
+34,No,Travel_Rarely,Research & Development,Life Sciences,3622
+34,No,Travel_Frequently,Sales,Marketing,2231
+46,No,Travel_Rarely,Research & Development,Medical,4810
+32,No,Travel_Frequently,Sales,Marketing,8998
+43,Yes,Travel_Rarely,Sales,Marketing,5346
+32,No,Travel_Rarely,Research & Development,Life Sciences,2837
+33,No,Travel_Frequently,Research & Development,Life Sciences,5968
+29,No,Travel_Rarely,Sales,Medical,6644
+38,No,Travel_Rarely,Sales,Marketing,2899
+46,No,Travel_Rarely,Research & Development,Medical,19328
+27,No,Travel_Frequently,Sales,Life Sciences,5071
+28,No,Travel_Rarely,Research & Development,Other,3660
+28,No,Travel_Frequently,Research & Development,Life Sciences,2703
+29,No,Travel_Rarely,Research & Development,Medical,4723
+33,No,Travel_Rarely,Sales,Marketing,5487
+29,No,Travel_Frequently,Sales,Life Sciences,4554
+27,No,Travel_Rarely,Research & Development,Life Sciences,2478
+36,No,Travel_Frequently,Research & Development,Technical Degree,3692
+42,No,Travel_Rarely,Research & Development,Medical,2766
+43,No,Travel_Rarely,Research & Development,Other,4522
+49,No,Travel_Rarely,Research & Development,Medical,6567
+32,No,Travel_Rarely,Research & Development,Life Sciences,3298
+34,No,Non-Travel,Sales,Marketing,4568
+43,No,Travel_Frequently,Research & Development,Medical,4739
+38,Yes,Travel_Rarely,Research & Development,Medical,4855
+24,Yes,Travel_Rarely,Research & Development,Medical,2293
+38,No,Travel_Rarely,Research & Development,Medical,7756
+46,No,Travel_Rarely,Research & Development,Technical Degree,7379
+33,No,Travel_Rarely,Research & Development,Life Sciences,7119
+41,Yes,Travel_Rarely,Research & Development,Technical Degree,19545
+30,No,Travel_Rarely,Research & Development,Medical,2720
+35,No,Travel_Rarely,Research & Development,Medical,2859
+42,No,Travel_Rarely,Human Resources,Technical Degree,2696
+52,No,Travel_Rarely,Research & Development,Life Sciences,19999
+29,No,Travel_Rarely,Sales,Life Sciences,8620
+44,Yes,Travel_Rarely,Research & Development,Life Sciences,2936
+45,Yes,Travel_Rarely,Sales,Marketing,18824
+28,No,Travel_Rarely,Research & Development,Medical,4877
+39,No,Travel_Rarely,Research & Development,Technical Degree,4553
+41,No,Travel_Rarely,Sales,Marketing,10447
+43,No,Travel_Rarely,Sales,Marketing,10231
+42,No,Travel_Rarely,Research & Development,Technical Degree,19232
+37,No,Travel_Rarely,Sales,Life Sciences,7428
+43,No,Travel_Rarely,Research & Development,Medical,4081
+46,Yes,Travel_Rarely,Sales,Medical,9619
+36,No,Travel_Rarely,Research & Development,Life Sciences,8008
+25,Yes,Travel_Rarely,Sales,Marketing,2413
+40,No,Non-Travel,Research & Development,Other,3975
+36,No,Travel_Frequently,Research & Development,Life Sciences,3688
+27,No,Travel_Frequently,Sales,Marketing,4342
+47,Yes,Travel_Frequently,Sales,Life Sciences,12936
+30,No,Travel_Rarely,Research & Development,Life Sciences,2632
+34,No,Travel_Frequently,Research & Development,Life Sciences,4033
+38,No,Travel_Rarely,Research & Development,Life Sciences,4771
+33,No,Travel_Rarely,Research & Development,Medical,16184
+29,Yes,Travel_Rarely,Sales,Marketing,7639
+33,No,Travel_Frequently,Sales,Life Sciences,9998
+25,No,Travel_Rarely,Research & Development,Other,3977
+35,Yes,Travel_Rarely,Sales,Medical,10306
+34,No,Travel_Rarely,Human Resources,Human Resources,3737
+40,No,Travel_Frequently,Research & Development,Medical,5605
+21,Yes,Travel_Frequently,Sales,Technical Degree,2174
+26,Yes,Travel_Frequently,Research & Development,Technical Degree,3102
+33,No,Travel_Rarely,Research & Development,Medical,3838
+31,No,Travel_Rarely,Research & Development,Technical Degree,4821
+32,No,Travel_Rarely,Sales,Marketing,9204
+20,No,Travel_Rarely,Research & Development,Life Sciences,2836
+48,No,Travel_Rarely,Research & Development,Life Sciences,15402
+31,No,Travel_Rarely,Research & Development,Medical,5582
+40,Yes,Travel_Rarely,Sales,Marketing,6380
+34,Yes,Travel_Rarely,Human Resources,Technical Degree,2742
+31,No,Travel_Rarely,Research & Development,Life Sciences,2356
+35,No,Travel_Frequently,Research & Development,Medical,2194
+24,No,Travel_Frequently,Human Resources,Medical,2145
+19,Yes,Travel_Rarely,Sales,Marketing,1675
+36,No,Travel_Rarely,Research & Development,Life Sciences,2543
+34,No,Travel_Rarely,Sales,Medical,8103
+53,Yes,Travel_Rarely,Sales,Life Sciences,10448
+36,No,Travel_Rarely,Research & Development,Other,4678
+44,Yes,Travel_Rarely,Research & Development,Life Sciences,2362
+42,No,Travel_Rarely,Sales,Marketing,5087
+35,No,Travel_Rarely,Research & Development,Medical,2426
+36,No,Travel_Rarely,Research & Development,Life Sciences,2741
+32,No,Travel_Rarely,Sales,Medical,2269
+25,No,Travel_Rarely,Research & Development,Medical,2889
+55,No,Travel_Rarely,Sales,Life Sciences,10239
+28,No,Travel_Rarely,Research & Development,Medical,3591
+58,No,Non-Travel,Research & Development,Life Sciences,5660
+58,No,Travel_Rarely,Sales,Life Sciences,17875
+34,No,Travel_Rarely,Sales,Technical Degree,7083
+51,No,Travel_Rarely,Research & Development,Technical Degree,13142
+37,No,Non-Travel,Research & Development,Medical,13603
+28,No,Travel_Rarely,Sales,Medical,2856
+44,No,Travel_Rarely,Research & Development,Other,4541
+40,No,Travel_Rarely,Research & Development,Life Sciences,2387
+31,No,Travel_Frequently,Sales,Marketing,9637
+21,Yes,Travel_Frequently,Research & Development,Life Sciences,2625
+38,No,Non-Travel,Research & Development,Medical,5329
+26,No,Travel_Frequently,Research & Development,Medical,2007
+41,No,Travel_Rarely,Sales,Life Sciences,16015
+48,No,Travel_Frequently,Research & Development,Medical,15202
+30,No,Non-Travel,Research & Development,Life Sciences,2097
+43,No,Travel_Rarely,Research & Development,Technical Degree,4876
+21,No,Travel_Rarely,Research & Development,Technical Degree,2070
+29,No,Travel_Rarely,Sales,Medical,5561
+47,No,Travel_Rarely,Sales,Marketing,4537
+43,No,Travel_Rarely,Research & Development,Life Sciences,17603
+37,No,Travel_Frequently,Research & Development,Medical,2326
+26,Yes,Travel_Rarely,Research & Development,Life Sciences,2293
+34,No,Travel_Rarely,Sales,Life Sciences,5337
+42,No,Travel_Rarely,Research & Development,Medical,2372
+34,No,Travel_Rarely,Research & Development,Medical,8621
+36,No,Travel_Frequently,Research & Development,Medical,2153
+37,No,Travel_Frequently,Research & Development,Other,12185
+29,No,Travel_Rarely,Research & Development,Other,4025
+58,No,Travel_Rarely,Sales,Medical,13872
+32,No,Travel_Rarely,Research & Development,Technical Degree,2176
+35,No,Travel_Rarely,Research & Development,Medical,6142
+38,No,Travel_Rarely,Sales,Medical,5605
+34,Yes,Travel_Frequently,Human Resources,Human Resources,9950
+43,No,Travel_Rarely,Research & Development,Life Sciences,14336
+53,No,Travel_Rarely,Research & Development,Medical,16598
+43,No,Non-Travel,Research & Development,Life Sciences,2438
+40,Yes,Non-Travel,Sales,Life Sciences,13194
+49,No,Travel_Frequently,Research & Development,Life Sciences,5130
+55,No,Travel_Rarely,Research & Development,Medical,14756
+26,Yes,Travel_Rarely,Research & Development,Medical,2377
+34,No,Travel_Frequently,Research & Development,Medical,17007
+34,No,Travel_Frequently,Human Resources,Life Sciences,4490
+34,No,Travel_Rarely,Research & Development,Medical,11631
+39,No,Travel_Rarely,Research & Development,Medical,5377
+37,Yes,Travel_Rarely,Research & Development,Other,2090
+32,No,Travel_Rarely,Sales,Marketing,5396
+35,No,Travel_Rarely,Research & Development,Medical,2705
+34,No,Travel_Rarely,Research & Development,Life Sciences,2929
+30,No,Non-Travel,Research & Development,Technical Degree,1274
+54,No,Travel_Rarely,Research & Development,Medical,5485
+45,No,Travel_Rarely,Research & Development,Medical,3452
+42,No,Travel_Rarely,Sales,Medical,6244
+34,No,Travel_Rarely,Research & Development,Other,4809
+49,No,Travel_Rarely,Research & Development,Life Sciences,19502
+43,No,Non-Travel,Research & Development,Medical,2089
+37,No,Travel_Rarely,Research & Development,Medical,3452
+41,No,Non-Travel,Human Resources,Human Resources,6430
+44,No,Travel_Rarely,Research & Development,Life Sciences,16328
+48,No,Travel_Rarely,Sales,Marketing,4051
+50,No,Travel_Frequently,Research & Development,Medical,14411
+41,No,Travel_Rarely,Research & Development,Life Sciences,13570
+44,Yes,Travel_Rarely,Human Resources,Medical,10482
+29,No,Travel_Rarely,Research & Development,Technical Degree,4262
+45,No,Travel_Rarely,Research & Development,Other,3697
+34,No,Travel_Frequently,Research & Development,Medical,4444
+32,No,Travel_Rarely,Research & Development,Medical,11244
+39,No,Non-Travel,Research & Development,Life Sciences,6472
+20,Yes,Travel_Rarely,Sales,Medical,2044
+35,No,Travel_Rarely,Sales,Life Sciences,2430
+35,No,Travel_Rarely,Sales,Medical,4859
+34,No,Travel_Rarely,Research & Development,Life Sciences,5957
+33,No,Travel_Rarely,Research & Development,Medical,2028
+40,No,Travel_Rarely,Research & Development,Medical,3448
+47,Yes,Travel_Frequently,Sales,Life Sciences,6397
+36,No,Travel_Rarely,Sales,Life Sciences,6815
+41,No,Travel_Rarely,Research & Development,Medical,4721
+41,No,Travel_Rarely,Research & Development,Life Sciences,3072
+40,No,Travel_Rarely,Research & Development,Medical,2741
+54,No,Non-Travel,Human Resources,Human Resources,17328
+27,No,Travel_Frequently,Sales,Medical,4647
+30,No,Travel_Rarely,Research & Development,Medical,2141
+54,No,Travel_Rarely,Human Resources,Medical,10725
+35,No,Travel_Frequently,Research & Development,Medical,4930
+25,No,Travel_Rarely,Research & Development,Medical,3424
+26,No,Travel_Frequently,Research & Development,Medical,4741
+22,No,Travel_Rarely,Research & Development,Life Sciences,2451
+50,No,Non-Travel,Research & Development,Life Sciences,17924
+41,No,Travel_Frequently,Research & Development,Life Sciences,17181
+40,No,Travel_Rarely,Research & Development,Medical,6377
+24,No,Travel_Frequently,Research & Development,Technical Degree,3760
+33,No,Travel_Frequently,Sales,Marketing,4682
+35,Yes,Travel_Rarely,Sales,Life Sciences,5813
+48,Yes,Travel_Frequently,Sales,Medical,2655
+33,No,Travel_Rarely,Research & Development,Life Sciences,2500
+40,No,Non-Travel,Research & Development,Medical,13757
+38,No,Travel_Rarely,Research & Development,Life Sciences,2619
+22,No,Travel_Rarely,Research & Development,Medical,2244
+38,No,Travel_Rarely,Research & Development,Technical Degree,6261
+29,No,Travel_Frequently,Sales,Technical Degree,2157
+26,No,Travel_Rarely,Research & Development,Life Sciences,2061
+41,No,Travel_Rarely,Research & Development,Life Sciences,2238
+40,Yes,Travel_Rarely,Sales,Marketing,9094
+53,No,Travel_Rarely,Research & Development,Life Sciences,14814
+37,No,Travel_Rarely,Sales,Marketing,6334
+23,No,Travel_Rarely,Research & Development,Life Sciences,2904
+50,No,Travel_Rarely,Research & Development,Medical,17639
+51,No,Travel_Rarely,Sales,Marketing,5441
+33,No,Travel_Rarely,Research & Development,Medical,4878
+31,No,Travel_Rarely,Research & Development,Life Sciences,2695
+37,Yes,Travel_Frequently,Research & Development,Medical,10048
+27,No,Travel_Frequently,Sales,Life Sciences,9981
+27,Yes,Travel_Rarely,Sales,Marketing,3041
+50,No,Travel_Rarely,Research & Development,Life Sciences,13269
+26,No,Travel_Frequently,Research & Development,Life Sciences,4364
+33,No,Non-Travel,Research & Development,Technical Degree,3055
+24,Yes,Travel_Rarely,Sales,Technical Degree,3202
+46,No,Travel_Rarely,Sales,Life Sciences,17567
+43,No,Travel_Frequently,Sales,Life Sciences,6804
+27,No,Travel_Rarely,Sales,Medical,3540
+39,No,Travel_Rarely,Research & Development,Medical,17068
+42,No,Travel_Rarely,Human Resources,Human Resources,16799
+30,No,Travel_Rarely,Research & Development,Technical Degree,3204
+55,No,Travel_Rarely,Research & Development,Medical,19187
+29,Yes,Travel_Rarely,Human Resources,Human Resources,2335
+46,No,Travel_Rarely,Sales,Marketing,17048
+40,No,Travel_Rarely,Human Resources,Medical,16437
+57,No,Travel_Rarely,Research & Development,Life Sciences,9439
+44,No,Non-Travel,Research & Development,Life Sciences,2290
+29,No,Travel_Rarely,Research & Development,Medical,3785
+37,No,Travel_Rarely,Research & Development,Life Sciences,4197
+45,No,Travel_Rarely,Human Resources,Medical,2177
+20,Yes,Travel_Rarely,Research & Development,Technical Degree,2973
+42,No,Travel_Rarely,Research & Development,Medical,2593
+39,Yes,Travel_Rarely,Research & Development,Medical,3904
+39,Yes,Travel_Rarely,Research & Development,Medical,2404
+47,Yes,Non-Travel,Research & Development,Life Sciences,11849
+46,No,Travel_Rarely,Research & Development,Life Sciences,4615
+30,Yes,Travel_Rarely,Sales,Medical,1081
+35,No,Travel_Rarely,Research & Development,Technical Degree,8095
+31,Yes,Travel_Frequently,Research & Development,Life Sciences,4084
+35,No,Travel_Rarely,Research & Development,Other,3917
+47,No,Travel_Rarely,Research & Development,Life Sciences,2105
+26,Yes,Travel_Rarely,Research & Development,Medical,2373
+28,No,Travel_Rarely,Research & Development,Life Sciences,3201
+46,No,Travel_Rarely,Sales,Marketing,18789
+42,No,Travel_Frequently,Research & Development,Medical,13191
+26,No,Travel_Rarely,Human Resources,Life Sciences,2942
+43,No,Travel_Rarely,Research & Development,Medical,2645
+39,No,Travel_Rarely,Research & Development,Medical,2232
+31,No,Non-Travel,Research & Development,Medical,3065
+42,No,Travel_Rarely,Research & Development,Other,19613
+37,No,Travel_Rarely,Research & Development,Life Sciences,3022
+36,No,Travel_Frequently,Research & Development,Life Sciences,6499
+35,No,Travel_Frequently,Research & Development,Medical,4425
+27,No,Non-Travel,Research & Development,Medical,2566
+35,Yes,Travel_Rarely,Research & Development,Life Sciences,5916
+55,Yes,Travel_Rarely,Sales,Medical,5160
+29,No,Travel_Rarely,Research & Development,Medical,2532
+39,No,Travel_Rarely,Sales,Medical,8237
+32,No,Travel_Rarely,Sales,Life Sciences,9610
+40,No,Travel_Rarely,Research & Development,Life Sciences,7945
+44,No,Non-Travel,Research & Development,Medical,3708
+28,Yes,Travel_Rarely,Research & Development,Life Sciences,2216
+44,No,Travel_Rarely,Sales,Marketing,18213
+43,No,Travel_Frequently,Sales,Life Sciences,16959
+38,No,Travel_Rarely,Research & Development,Medical,3057
+51,No,Travel_Rarely,Sales,Marketing,16307
+46,No,Travel_Rarely,Research & Development,Life Sciences,5562
+36,No,Travel_Rarely,Research & Development,Medical,8858
+35,No,Non-Travel,Research & Development,Life Sciences,1281
+37,No,Non-Travel,Research & Development,Life Sciences,5163
+51,No,Travel_Rarely,Research & Development,Life Sciences,19537
+34,No,Travel_Rarely,Research & Development,Medical,3986
+40,No,Travel_Rarely,Sales,Medical,19833
+30,No,Travel_Rarely,Research & Development,Life Sciences,5294
+32,No,Travel_Frequently,Research & Development,Other,2743
+30,No,Travel_Rarely,Research & Development,Life Sciences,4152
+52,No,Travel_Rarely,Research & Development,Other,2950
+56,No,Travel_Rarely,Research & Development,Life Sciences,2066
+51,No,Travel_Frequently,Sales,Life Sciences,19847
+32,No,Travel_Rarely,Sales,Marketing,4078
+39,Yes,Travel_Rarely,Sales,Medical,5238
+44,No,Travel_Rarely,Research & Development,Life Sciences,2818
+51,No,Travel_Frequently,Research & Development,Medical,2838
+39,No,Travel_Frequently,Research & Development,Technical Degree,10938
+40,No,Travel_Frequently,Research & Development,Medical,4244
+33,No,Travel_Rarely,Sales,Marketing,8380
+47,No,Travel_Rarely,Sales,Marketing,4960
+44,No,Travel_Rarely,Research & Development,Life Sciences,7879
+53,No,Travel_Frequently,Sales,Marketing,7525
+33,Yes,Travel_Rarely,Research & Development,Life Sciences,2707
+26,No,Travel_Rarely,Research & Development,Medical,2867
+45,No,Travel_Rarely,Research & Development,Technical Degree,7441
+48,No,Travel_Rarely,Research & Development,Other,2367
+50,No,Travel_Rarely,Sales,Medical,19517
+39,No,Travel_Rarely,Research & Development,Medical,3069
+46,No,Non-Travel,Sales,Life Sciences,7991
+34,No,Travel_Rarely,Research & Development,Medical,2311
+30,No,Travel_Rarely,Sales,Life Sciences,5301
+38,No,Travel_Rarely,Human Resources,Human Resources,2844
+28,Yes,Travel_Rarely,Research & Development,Medical,4382
+33,No,Travel_Frequently,Research & Development,Life Sciences,2909
+37,No,Travel_Rarely,Research & Development,Other,4107
+33,Yes,Travel_Rarely,Sales,Life Sciences,8564
+36,No,Travel_Rarely,Research & Development,Life Sciences,5347
+49,No,Travel_Rarely,Research & Development,Technical Degree,6651
+26,Yes,Travel_Rarely,Human Resources,Medical,2148
+47,No,Travel_Rarely,Research & Development,Life Sciences,10333
+40,No,Travel_Rarely,Research & Development,Life Sciences,3377
+25,No,Travel_Rarely,Research & Development,Medical,2096
+59,No,Travel_Rarely,Research & Development,Life Sciences,13726
+35,No,Travel_Rarely,Research & Development,Technical Degree,10903
+29,No,Travel_Frequently,Research & Development,Life Sciences,2720
+56,No,Non-Travel,Research & Development,Life Sciences,6306
+36,No,Travel_Rarely,Research & Development,Life Sciences,6586
+27,No,Travel_Frequently,Research & Development,Life Sciences,8793
+53,No,Travel_Rarely,Research & Development,Medical,18606
+40,No,Travel_Frequently,Research & Development,Medical,5094
+30,No,Travel_Rarely,Sales,Marketing,2983
+42,No,Travel_Rarely,Research & Development,Medical,17665
+56,No,Travel_Frequently,Sales,Life Sciences,13212
+39,No,Travel_Rarely,Human Resources,Life Sciences,5204
+52,Yes,Travel_Rarely,Sales,Life Sciences,8446
+34,No,Non-Travel,Sales,Marketing,6538
+36,No,Non-Travel,Research & Development,Life Sciences,5674
+23,No,Travel_Rarely,Research & Development,Life Sciences,1223
+34,No,Travel_Rarely,Sales,Life Sciences,6500
+31,No,Travel_Rarely,Research & Development,Medical,2501
+45,No,Travel_Rarely,Human Resources,Life Sciences,9756
+31,No,Travel_Rarely,Research & Development,Medical,1129
+30,No,Travel_Rarely,Sales,Marketing,6118
+35,No,Travel_Rarely,Research & Development,Life Sciences,3506
+50,No,Travel_Rarely,Research & Development,Medical,3221
+31,No,Travel_Rarely,Research & Development,Medical,3978
+34,No,Travel_Rarely,Research & Development,Medical,4404
+35,No,Travel_Rarely,Research & Development,Medical,10388
+39,No,Travel_Rarely,Research & Development,Medical,5295
+29,Yes,Travel_Rarely,Sales,Life Sciences,7336
+52,No,Travel_Rarely,Sales,Marketing,16856
+55,No,Travel_Rarely,Human Resources,Human Resources,19636
+55,No,Travel_Rarely,Research & Development,Medical,19038
+28,No,Travel_Rarely,Research & Development,Medical,2377
+48,No,Non-Travel,Research & Development,Medical,16885
+46,No,Travel_Rarely,Sales,Life Sciences,16606
+31,No,Travel_Frequently,Research & Development,Medical,13675
+49,No,Travel_Rarely,Research & Development,Other,16413
+46,No,Travel_Rarely,Research & Development,Life Sciences,17861
+29,Yes,Travel_Rarely,Research & Development,Other,2119
+29,Yes,Travel_Frequently,Sales,Technical Degree,1091
+41,No,Non-Travel,Research & Development,Life Sciences,19973
+36,No,Non-Travel,Research & Development,Life Sciences,2810
+32,No,Travel_Rarely,Research & Development,Life Sciences,11159
+33,No,Travel_Frequently,Research & Development,Other,5488
+45,No,Travel_Rarely,Research & Development,Life Sciences,2274
+30,No,Travel_Rarely,Research & Development,Medical,9667
+32,No,Travel_Frequently,Sales,Medical,4668
+54,No,Travel_Rarely,Research & Development,Medical,4440
+27,No,Travel_Rarely,Sales,Medical,6500
+53,No,Travel_Rarely,Research & Development,Medical,17584
+25,No,Travel_Rarely,Sales,Medical,6180
+23,Yes,Travel_Frequently,Sales,Marketing,1790
+19,Yes,Travel_Frequently,Sales,Technical Degree,2325
+45,No,Non-Travel,Sales,Medical,8865
+42,No,Travel_Rarely,Research & Development,Medical,13348
+46,No,Travel_Rarely,Sales,Marketing,10453
+42,Yes,Travel_Frequently,Sales,Life Sciences,13758
+48,No,Travel_Rarely,Research & Development,Life Sciences,10999
+18,No,Non-Travel,Research & Development,Medical,1514
+29,Yes,Travel_Frequently,Research & Development,Life Sciences,2439
+27,No,Travel_Rarely,Sales,Marketing,6214
+25,No,Travel_Rarely,Sales,Life Sciences,6232
+29,Yes,Travel_Rarely,Research & Development,Life Sciences,2404
+49,No,Non-Travel,Research & Development,Life Sciences,6804
+25,Yes,Travel_Rarely,Research & Development,Technical Degree,3691
+31,No,Travel_Frequently,Sales,Marketing,2789
+54,No,Travel_Rarely,Sales,Marketing,5940
+49,No,Travel_Rarely,Research & Development,Technical Degree,3580
+33,No,Travel_Frequently,Sales,Medical,4539
+27,No,Travel_Rarely,Research & Development,Medical,3816
+55,No,Travel_Rarely,Research & Development,Life Sciences,4035
+31,No,Non-Travel,Sales,Marketing,6932
+46,No,Travel_Rarely,Sales,Life Sciences,10368
+36,No,Travel_Frequently,Research & Development,Life Sciences,5131
+32,Yes,Travel_Rarely,Research & Development,Medical,4200
+48,No,Travel_Rarely,Research & Development,Life Sciences,18265
+52,Yes,Travel_Rarely,Research & Development,Medical,4941
+28,No,Travel_Rarely,Research & Development,Medical,7655
+28,No,Travel_Rarely,Research & Development,Medical,4558
+29,No,Travel_Rarely,Research & Development,Other,9715
+42,No,Travel_Frequently,Research & Development,Other,2093
+28,No,Travel_Rarely,Sales,Medical,8463
+34,No,Travel_Rarely,Research & Development,Life Sciences,5484
+56,No,Travel_Rarely,Sales,Marketing,5380
+42,No,Travel_Rarely,Research & Development,Life Sciences,4434
+31,Yes,Travel_Rarely,Research & Development,Life Sciences,1261
+28,No,Travel_Rarely,Research & Development,Medical,2713
+37,Yes,Travel_Rarely,Human Resources,Human Resources,2073
+37,No,Travel_Rarely,Research & Development,Life Sciences,5768
+30,Yes,Travel_Frequently,Research & Development,Medical,2422
+35,No,Non-Travel,Sales,Marketing,10377
+34,No,Travel_Rarely,Research & Development,Medical,4381
+41,No,Travel_Rarely,Sales,Life Sciences,8938
+45,No,Travel_Rarely,Research & Development,Other,5770
+51,No,Travel_Rarely,Research & Development,Medical,5482
+41,No,Travel_Rarely,Sales,Marketing,9241
+48,No,Travel_Rarely,Research & Development,Technical Degree,2559
+26,No,Travel_Rarely,Research & Development,Medical,5472
+28,Yes,Travel_Frequently,Sales,Technical Degree,2909
+20,Yes,Travel_Rarely,Research & Development,Medical,2600
+37,No,Travel_Rarely,Research & Development,Life Sciences,3034
+32,No,Non-Travel,Research & Development,Life Sciences,2332
+33,Yes,Travel_Rarely,Research & Development,Medical,13610
+33,Yes,Travel_Rarely,Research & Development,Other,2686
+18,No,Travel_Rarely,Sales,Medical,1200
+45,No,Travel_Rarely,Sales,Life Sciences,17650
+51,No,Travel_Frequently,Sales,Marketing,10596
+36,No,Travel_Rarely,Research & Development,Medical,2519
+31,No,Travel_Rarely,Sales,Medical,6583
+49,No,Travel_Rarely,Research & Development,Life Sciences,15379
+53,No,Travel_Rarely,Sales,Marketing,11836
+37,No,Travel_Rarely,Research & Development,Medical,6347
+51,No,Travel_Rarely,Human Resources,Life Sciences,14026
+55,No,Travel_Rarely,Research & Development,Medical,18722
+29,Yes,Travel_Rarely,Research & Development,Technical Degree,2362
+39,No,Travel_Rarely,Human Resources,Human Resources,6389
+28,No,Travel_Rarely,Research & Development,Medical,5661
+39,No,Travel_Frequently,Research & Development,Life Sciences,3755
+37,Yes,Travel_Rarely,Research & Development,Medical,4213
+29,No,Non-Travel,Sales,Life Sciences,4649
+50,No,Travel_Rarely,Research & Development,Medical,19237
+43,No,Travel_Frequently,Research & Development,Life Sciences,5562
+35,No,Travel_Frequently,Research & Development,Other,2376
+29,No,Travel_Rarely,Research & Development,Life Sciences,16124
+36,No,Travel_Rarely,Sales,Technical Degree,5673
+31,No,Travel_Rarely,Research & Development,Medical,6833
+28,Yes,Travel_Rarely,Research & Development,Life Sciences,2515
+38,No,Travel_Rarely,Sales,Marketing,7351
+37,No,Travel_Rarely,Research & Development,Medical,5974
+19,Yes,Travel_Rarely,Human Resources,Technical Degree,2564
+42,No,Travel_Rarely,Sales,Marketing,18303
+27,No,Non-Travel,Sales,Marketing,6349
+34,No,Travel_Rarely,Sales,Life Sciences,2220
+40,No,Travel_Rarely,Research & Development,Life Sciences,10435
+39,No,Non-Travel,Research & Development,Life Sciences,10920
+36,No,Travel_Rarely,Research & Development,Life Sciences,5410
+58,Yes,Travel_Rarely,Research & Development,Technical Degree,2479
+35,No,Travel_Rarely,Research & Development,Other,3681
+42,No,Travel_Frequently,Research & Development,Life Sciences,18430
+30,No,Non-Travel,Research & Development,Life Sciences,8474
+36,No,Non-Travel,Research & Development,Life Sciences,7779
+39,No,Travel_Frequently,Research & Development,Medical,5042
+34,Yes,Travel_Frequently,Research & Development,Life Sciences,6074
+25,No,Travel_Rarely,Sales,Life Sciences,4851
+45,No,Travel_Rarely,Research & Development,Technical Degree,16704
+27,Yes,Travel_Frequently,Human Resources,Human Resources,2863
+36,No,Travel_Frequently,Research & Development,Life Sciences,5562
+37,No,Travel_Rarely,Research & Development,Medical,5731
+53,No,Travel_Rarely,Sales,Marketing,2306
+36,No,Travel_Rarely,Research & Development,Medical,4941
+29,No,Travel_Rarely,Sales,Medical,5869
+41,No,Travel_Rarely,Sales,Life Sciences,16595
+36,No,Travel_Rarely,Human Resources,Human Resources,2143
+23,Yes,Travel_Rarely,Sales,Life Sciences,2275
+38,No,Travel_Frequently,Research & Development,Life Sciences,2406
+58,No,Travel_Rarely,Research & Development,Medical,19701
+36,No,Travel_Rarely,Research & Development,Life Sciences,3419
+49,No,Travel_Rarely,Research & Development,Life Sciences,13966
+40,No,Travel_Rarely,Research & Development,Life Sciences,4448
+31,No,Travel_Frequently,Research & Development,Technical Degree,5238
+34,Yes,Travel_Rarely,Sales,Medical,4599
+24,No,Travel_Rarely,Research & Development,Life Sciences,4617
+27,No,Travel_Rarely,Research & Development,Medical,2187
+26,No,Non-Travel,Research & Development,Medical,2570
+24,No,Travel_Rarely,Research & Development,Medical,3907
+42,Yes,Travel_Frequently,Research & Development,Medical,2759
+32,No,Travel_Rarely,Sales,Life Sciences,5484
+39,No,Travel_Rarely,Research & Development,Medical,9991
+35,No,Travel_Rarely,Research & Development,Life Sciences,5208
+46,No,Travel_Frequently,Research & Development,Medical,10527
+31,No,Travel_Frequently,Research & Development,Life Sciences,4148
+40,Yes,Travel_Rarely,Research & Development,Life Sciences,2166
+27,No,Travel_Frequently,Research & Development,Life Sciences,2379

@@ -1,0 +1,61 @@
+,Age,Attrition,BusinessTravel,Department,EducationField,MonthlyIncome
+297,<38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+912,<38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+753,>=38,Yes,Non-Travel,Research & Development,Life Sciences,>=5881
+317,>=38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+323,<38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+354,<38,Yes,Travel_Frequently,Sales,Life Sciences,<5881
+774,>=38,Yes,Travel_Rarely,Sales,Medical,<5881
+818,<38,Yes,Travel_Rarely,Research & Development,Medical,<5881
+679,>=38,Yes,Travel_Rarely,Human Resources,Medical,>=5881
+821,<38,Yes,Travel_Rarely,Sales,Life Sciences,>=5881
+710,>=38,Yes,Travel_Frequently,Sales,Medical,<5881
+566,>=38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+654,>=38,Yes,Non-Travel,Sales,Life Sciences,>=5881
+608,>=38,Yes,Travel_Rarely,Sales,Life Sciences,>=5881
+586,<38,Yes,Travel_Rarely,Sales,Marketing,>=5881
+484,<38,Yes,Travel_Frequently,Research & Development,Medical,<5881
+556,<38,Yes,Travel_Rarely,Research & Development,Medical,<5881
+374,<38,Yes,Non-Travel,Sales,Medical,<5881
+110,<38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+760,<38,Yes,Travel_Rarely,Research & Development,Medical,<5881
+220,>=38,Yes,Travel_Rarely,Sales,Life Sciences,>=5881
+321,<38,Yes,Travel_Frequently,Research & Development,Life Sciences,<5881
+757,<38,Yes,Travel_Frequently,Research & Development,Life Sciences,<5881
+328,<38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+86,<38,Yes,Travel_Rarely,Research & Development,Medical,<5881
+164,<38,Yes,Travel_Rarely,Research & Development,Life Sciences,<5881
+840,>=38,Yes,Travel_Rarely,Sales,Life Sciences,>=5881
+929,<38,Yes,Travel_Rarely,Research & Development,Medical,>=5881
+589,<38,Yes,Travel_Rarely,Sales,Medical,>=5881
+255,>=38,Yes,Travel_Rarely,Sales,Marketing,>=5881
+683,<38,No,Travel_Rarely,Research & Development,Medical,>=5881
+459,<38,No,Travel_Frequently,Sales,Life Sciences,<5881
+699,>=38,No,Travel_Rarely,Human Resources,Medical,>=5881
+703,<38,No,Travel_Rarely,Research & Development,Life Sciences,<5881
+15,>=38,No,Travel_Frequently,Research & Development,Medical,<5881
+52,>=38,No,Non-Travel,Research & Development,Medical,>=5881
+651,>=38,No,Travel_Rarely,Research & Development,Life Sciences,>=5881
+248,>=38,No,Travel_Rarely,Research & Development,Medical,<5881
+875,<38,No,Travel_Rarely,Sales,Medical,>=5881
+806,>=38,No,Travel_Rarely,Research & Development,Life Sciences,>=5881
+819,<38,No,Travel_Frequently,Research & Development,Life Sciences,<5881
+688,<38,No,Travel_Rarely,Research & Development,Life Sciences,>=5881
+318,>=38,No,Travel_Frequently,Research & Development,Medical,<5881
+296,>=38,No,Travel_Rarely,Research & Development,Life Sciences,<5881
+999,<38,No,Travel_Frequently,Research & Development,Life Sciences,<5881
+544,<38,No,Travel_Rarely,Research & Development,Medical,<5881
+241,<38,No,Travel_Rarely,Research & Development,Medical,<5881
+603,<38,No,Travel_Frequently,Research & Development,Medical,<5881
+836,<38,No,Travel_Rarely,Sales,Marketing,<5881
+882,>=38,No,Travel_Rarely,Sales,Marketing,>=5881
+897,>=38,No,Travel_Rarely,Research & Development,Life Sciences,<5881
+759,>=38,No,Travel_Rarely,Research & Development,Life Sciences,<5881
+197,<38,No,Travel_Rarely,Sales,Life Sciences,<5881
+695,>=38,No,Travel_Rarely,Research & Development,Medical,<5881
+895,<38,No,Travel_Frequently,Sales,Medical,<5881
+667,>=38,No,Travel_Rarely,Research & Development,Medical,<5881
+170,<38,No,Travel_Rarely,Research & Development,Life Sciences,>=5881
+933,>=38,No,Travel_Frequently,Sales,Marketing,>=5881
+549,>=38,No,Travel_Rarely,Research & Development,Medical,<5881
+743,>=38,No,Travel_Rarely,Human Resources,Medical,>=5881
