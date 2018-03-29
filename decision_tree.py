@@ -5,7 +5,7 @@ import numpy as np
 
 """
     The program implements the  ID3 algorithm to generate the decision tree for classification 
-    and the decision tree would be save in a dictionary in hierarchy structure.
+    and the decision tree would be saved in a dictionary in hierarchy structure.
     This is not a generalize program to receive any data format. 
     It is actually only designed for finishing our assignment.
 """
